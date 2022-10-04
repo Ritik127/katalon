@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>89be6eef-78e9-4115-96e7-39658a316fd2</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>f028751e-9856-4cb5-8ddc-6e3fe91e56b4</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/DataDrivenTesting</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>f028751e-9856-4cb5-8ddc-6e3fe91e56b4</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>no</value>
+      <variableId>b6205d25-9fba-4dee-ba30-975f3b9b924e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b6205d25-9fba-4dee-ba30-975f3b9b924e</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

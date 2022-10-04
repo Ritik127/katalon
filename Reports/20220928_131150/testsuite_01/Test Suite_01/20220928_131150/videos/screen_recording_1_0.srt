@@ -1,0 +1,24 @@
+1
+00:00:00,764 --> 00:00:08,388
+1. openBrowser("https://www.saucedemo.com/")
+
+2
+00:00:08,483 --> 00:00:08,988
+5. click(findTestObject("Object Repository/Page_Swag Labs/div_standard_userlocked_out_userproblem_use_50634e"))
+
+3
+00:00:08,989 --> 00:00:09,815
+9. setText(findTestObject("Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_db77ac"), "standard_user")
+
+4
+00:00:09,815 --> 00:00:10,348
+13. setEncryptedText(findTestObject("Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_3423e9"), "qcu24s4901FyWDTwXGr6XA==")
+
+5
+00:00:10,349 --> 00:00:10,835
+17. click(findTestObject("Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_0dff71"))
+
+6
+00:00:10,836 --> 00:00:12,120
+21. closeBrowser()
+

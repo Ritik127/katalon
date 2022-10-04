@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite_01,Chrome 106.0.0.0,,,2022-09-28 13:11:59,2022-09-28 13:12:16,16.954s,PASSED
+,,,,,,,
+Test Cases/Common Test Cases/Login,Chrome 106.0.0.0,,,2022-09-28 13:12:00,2022-09-28 13:12:16,16.459s,PASSED
+"openBrowser(""https://www.saucedemo.com/"")",Chrome 106.0.0.0,,,2022-09-28 13:12:03,2022-09-28 13:12:10,7.720s,PASSED
+"click(findTestObject(""Object Repository/Page_Swag Labs/div_standard_userlocked_out_userproblem_use_50634e""))",Chrome 106.0.0.0,,,2022-09-28 13:12:10,2022-09-28 13:12:11,0.504s,PASSED
+"setText(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_db77ac""), ""standard_user"")",Chrome 106.0.0.0,,,2022-09-28 13:12:11,2022-09-28 13:12:12,0.825s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_3423e9""), ""qcu24s4901FyWDTwXGr6XA=="")",Chrome 106.0.0.0,,,2022-09-28 13:12:12,2022-09-28 13:12:12,0.533s,PASSED
+"click(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_0dff71""))",Chrome 106.0.0.0,,,2022-09-28 13:12:12,2022-09-28 13:12:13,0.488s,PASSED
+closeBrowser(),Chrome 106.0.0.0,,,2022-09-28 13:12:13,2022-09-28 13:12:14,1.283s,PASSED
+Video,Chrome 106.0.0.0,,,2022-09-28 13:12:16,2022-09-28 13:12:16,0.001s,PASSED
